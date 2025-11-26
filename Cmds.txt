@@ -1,0 +1,17 @@
+ssh root@31.97.184.108
+K.v6kH.aJ/y1vznTlf95
+
+
+cd ~/Desktop/StarlinkARSetupApp
+
+cd ~/Desktop/StarlinkARSetupApp/frontend/StarlinkARClient
+
+/Desktop/StarlinkARSetupApp/frontend/StarlinkARClient$ nano backend/signalPredictor/app.py
+
+/Desktop/StarlinkARSetupApp/frontend/StarlinkARClient$ nano components/SignalMeter.tsx
+
+/Desktop/StarlinkARSetupApp/frontend/StarlinkARClient$
+nano frontend/StarlinkARClient/components/CompassOverlay.tsx
+
+npx expo start
+
